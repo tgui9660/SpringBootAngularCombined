@@ -1,4 +1,4 @@
-target/*
+target/**
 src/frontend/.angular/*
 src/frontend/node_modules/
 src/frontend/dist/**
